@@ -4,3 +4,5 @@ This repository contains materials and code related to the Sirius University cou
 
 ## Course Assignments
 - Lab1: Assignment on System Identification in Matlab
+- Lab2: Writing initials with an ABB manipulator IRB 1600
+- Lab3: Building a tower with metal cubes
